@@ -1,0 +1,11 @@
+{
+  "name": "marketeve",
+  "version": "1.0.0",
+  "description": "Marketeve - Building your ecommerce business",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
